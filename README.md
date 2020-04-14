@@ -1,7 +1,7 @@
 # population-graphs
 Population Graphs
 
-This project is based on #mimmitkoodaa MOOC by Sympa. Task is to build a working web application to visualize population graphs for countries
+This project is based on #mimmitkoodaa MOOC by Sympa. Task is to build a working web application to visualize population graphs for countries.
 
 The course is a hand-on introduction to HTML, CSS and Javascript, the central technologies for all web apps. It also covers using real JSON data from a live World Bank API. 
 
